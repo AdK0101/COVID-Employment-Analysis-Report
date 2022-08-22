@@ -4,7 +4,7 @@ The coronavirus pandemic has resulted in a spike in unemployment numbers in Cana
 Note that all of this data was taken from data published by StatCan.
 
 Key to Data:
-- Dat5 contains employment figures about individual regions in Canada. Dat7 contains employment data for the entirety of Canada. 
+- 'regional.csv' contains employment figures about individual regions in Canada. 'national.csv' contains employment data for the entirety of Canada. 
 - Regions in this data are split into 4:
     - Region 1: Atlantic Canada
     - Region 2: Central Canada
